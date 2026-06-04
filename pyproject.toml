@@ -1,0 +1,24 @@
+[project]
+name = "causal-attr"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "accelerate>=1.13.0",
+    "datasets>=4.8.4",
+    "easy-dataset-share>=0.5.0",
+    "huggingface-hub>=1.12.0",
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.4",
+    "openai>=2.38.0",
+    "pandas>=3.0.2",
+    "peft>=0.19.1",
+    "python-dotenv>=1.2.2",
+    "safetensors>=0.7.0",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
+    "torch>=2.11.0",
+    "tqdm>=4.67.3",
+    "transformers>=5.6.2",
+]

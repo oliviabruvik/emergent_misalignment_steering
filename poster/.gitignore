@@ -1,0 +1,11 @@
+# LaTeX build artifacts (regenerate on compile; keep main.pdf + sources)
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.nav
+*.snm
+*.toc
+*.out
